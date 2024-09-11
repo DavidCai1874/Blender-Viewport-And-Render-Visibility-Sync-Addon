@@ -25,7 +25,7 @@ An addon for Blender, controls the viewport and render visibility
 - 如果物件在一开始需要显示, 在某一帧再隐藏, 可以先点一下"Insert Visibility Keyframe",再拖到需要隐藏的帧隐藏
 - 需要k动画可以直接打开auto keyframe, "Insert Visibility Keyframe"这个键只会在物体显示的时候生效
 - specials中的同步功能不是必须的, 但万一出现了物件视图中没有, 但是渲染中有的情况,可以点一下
-此处附上插件面板图
+- 此处附上插件面板图
 ![panel](https://github.com/user-attachments/assets/06d6e2d5-d9b8-4a26-b2f5-63ec73a0f947)
 
 
