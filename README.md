@@ -1,8 +1,13 @@
 # Blender_Visibility_Addon
-An addon for Blender, controls the viewport and render visibility
+An addon for Blender, controls the viewport and render visibility/一个控制可视性的插件
 
-***
-由于插件还在改进与测试中, 暂时readme文件大部分都是中文
+# How To Use
+1. Click on the file ending with .py
+2. After entering the code page, click on the download button on the upper right corner, and a file ending with .py will be downloaded
+3. Open Blender and click on the preference button at the bottom of the edit menu
+4. Select the addon menu, click on the Install button in the upper right corner, and then **select the file ending with .py that you just downloaded to install**
+5. After a while, the add-on name will pop up, and click on the box to the left of the name
+6. On the sidebar that appears when you press N in Blender, the add-on name will be there, and you can start using it
 
 # 如何使用
 1. 点击.py后缀结尾的文件
@@ -12,12 +17,16 @@ An addon for Blender, controls the viewport and render visibility
 5. 等待一小会, 会跳出来插件名, 点击名称左边的方框
 6. 在Blender按N出现的侧栏中, 会显示插件名, 开始使用即可
 
-# 图片版
+
+# Images of Instruction
 1. ![1](https://github.com/user-attachments/assets/64589ba4-6364-4474-a594-3a24dfd922a7)
 2. ![2](https://github.com/user-attachments/assets/c4f2403b-35e0-42c2-8187-300587da1549)
 3. ![3](https://github.com/user-attachments/assets/6bf58a6f-d924-4632-833e-9aab6c0909c2)
 4. ![4](https://github.com/user-attachments/assets/7d56364a-972a-4048-8bf2-d3563ce71b60)
 5. ![5](https://github.com/user-attachments/assets/c9126593-2695-414a-b581-4bee1e7b76d5)
+
+# Tips
+
 
 # 一些Tips
 - 作为编辑者, 我建议是手动在大纲视角隐藏掉其他准备做动画的物件, 专注于一个一个k
@@ -26,10 +35,11 @@ An addon for Blender, controls the viewport and render visibility
 - 需要k动画可以直接打开auto keyframe, "Insert Visibility Keyframe"这个键只会在物体显示的时候生效
 - specials中的同步功能不是必须的, 但万一出现了物件视图中没有, 但是渲染中有的情况,可以点一下
 - 此处附上插件面板图
-![panel](https://github.com/user-attachments/assets/06d6e2d5-d9b8-4a26-b2f5-63ec73a0f947)
+- ![panel](https://github.com/user-attachments/assets/06d6e2d5-d9b8-4a26-b2f5-63ec73a0f947)
 
 
-# 已知的bug
+# A bug here/已知bug
+If, after hiding the previous objects, I select new objects and then press 'Show,' the previously hidden objects will reappear.
 如果在隐藏了上一批以后, 在选中新的要隐藏的物件时点了Show, 上一批隐藏的会重新显示
 ![bug1](https://github.com/user-attachments/assets/7987077b-b44b-4ede-96fe-c3ed06a7a73e)
 ![bug2](https://github.com/user-attachments/assets/4e4039e8-3f0e-4419-b3c7-1b166fec0969)
