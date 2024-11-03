@@ -26,3 +26,6 @@
 如果在隐藏了上一批以后, 在选中新的要隐藏的物件时点了Show, 上一批隐藏的会重新显示
 ![bug1](https://github.com/user-attachments/assets/7987077b-b44b-4ede-96fe-c3ed06a7a73e)
 ![bug2](https://github.com/user-attachments/assets/4e4039e8-3f0e-4419-b3c7-1b166fec0969)
+
+# Demo on Youtube
+[![Watch on YouTube](https://img.youtube.com/vi/-M0sVv4fPIs/0.jpg)](https://www.youtube.com/watch?v=-M0sVv4fPIs)
