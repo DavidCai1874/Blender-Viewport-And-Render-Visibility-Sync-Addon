@@ -1,4 +1,4 @@
-# Blender_Visibility_Addon
+# Blender_Viewport_And_Render_Visibility_Sync_Addon
 An addon for Blender, controls the viewport and render visibility
 
 中文版可以移步这里/ Here's the instructions in Chinese:[点击这里查看中文文档](README_CN.md)
