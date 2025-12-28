@@ -1,8 +1,6 @@
 # Blender-Viewport-And-Render-Visibility-Sync-Addon
 An addon for Blender, controls the viewport and render visibility
 
-中文版可以移步这里/ Here's the instructions in Chinese:[点击这里查看中文文档](README_CN.md)
-
 # How To Use
 1. Click on the file ending with .py
 2. After entering the code page, click on the download button on the upper right corner, and a file ending with .py will be downloaded
